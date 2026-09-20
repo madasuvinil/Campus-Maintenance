@@ -1,0 +1,8 @@
+{
+  "name": "Campus Maintenance Complaint & Tracking System",
+  "description": "An all-in-one campus facility maintenance complaint registration, live ticket tracking, and Python data analytics platform with diverse graph visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
